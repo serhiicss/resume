@@ -10,30 +10,30 @@ http://serhii-css.com/portfolio.html
 
 # Skills:
 
-HTML/CSS
-SASS
-RWD
-Bootstrap
-SEO
-UI/UX Design
-Photoshop, xD
-Basic jQuery
-Basic JavaScript
-Jekyll
-Git
-npm
-Gulp
+<li>HTML/CSS</li>
+<li>SASS</li>
+<li>RWD</li>
+<li>Bootstrap</li>
+<li>SEO</li>
+<li>UI/UX Design</li>
+<li>Photoshop, xD</li>
+<li>Basic jQuery</li>
+<li>Basic JavaScript</li>
+<li>Jekyll</li>
+<li>Git</li>
+<li>npm</li>
+<li>Gulp</li>
 
 # Work environment:
 
-Windows 10
-Sublime text 3
-Windows PowerShell
-Chrome with Dev tools
-IE/Edge/FF for testing
-Slack
-Skype/Viber/WhatsApp/Telegram
-Stackoveflow/google
+<li>Windows 10</li>
+<li>Sublime text 3</li>
+<li>Windows PowerShell</li>
+<li>Chrome with Dev tools</li>
+<li>IE/Edge/FF for testing</li>
+<li>Slack</li>
+<li>Skype/Viber/WhatsApp/Telegram</li>
+<li>Stackoveflow/google</li>
 
 
 # Work experience:
