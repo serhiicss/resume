@@ -8,7 +8,7 @@ http://alexdmv.com
 Websites I code for practice: 
 http://serhii-css.com/portfolio.html
 
-#Skills:
+# Skills:
 
 HTML/CSS
 SASS
@@ -24,7 +24,7 @@ Git
 npm
 Gulp
 
-Work environment:
+# Work environment:
 
 Windows 10
 Sublime text 3
@@ -36,7 +36,7 @@ Skype/Viber/WhatsApp/Telegram
 Stackoveflow/google
 
 
-Work experience:
+# Work experience:
 
 Freelance - Development of websites, design 
 
