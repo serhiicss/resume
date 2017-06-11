@@ -1,6 +1,6 @@
 <b>Hello world!</b>
 
-For the past couple of years I have been teaching myself web-design and development. I was working on a couple of projects where I coded websites.
+For the past couple of years I have been teaching myself web-design and development. I've done a couple coding, deploying and maintaining website projects.
 
 Here is the latest commercial project I was working on:
 http://alexdmv.com
