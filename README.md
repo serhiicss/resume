@@ -38,11 +38,11 @@ Stackoveflow/google
 
 # Work experience:
 
-<b>Freelance</b> - Development of websites, design 
+<b>Freelance</b> - Website development and SEO. UX/UI design and research. Digital marketing and product promotion via social media.
 
-GA real estate firm - real estate property and market evaluation, condition inspections, market price opinion/recommendation.
+<b>GA</b> real estate firm - real estate property and market evaluation, condition inspections, market price opinion/recommendation.
 
-GA computers and electronics wholesale company - management of e-commerce department. Implementation of various software for inventory tracking/sales/shipping/support. Hiring, coaching and managing employees. Overseeing daily tasks within the department. Researching and developing new venues for inventory realization.
+<b>GA</b> computers and electronics wholesale company - management of e-commerce department. Implementation of various software for inventory tracking/sales/shipping/support. Hiring, coaching and managing employees. Overseeing daily tasks within the department. Researching and developing new venues for inventory realization.
 
 My website: http://serhii-css.com
 My GitHub: https://github.com/serhiicss
