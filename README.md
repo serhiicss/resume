@@ -16,7 +16,7 @@ http://serhii-css.com/portfolio.html
 <li>Bootstrap</li>
 <li>SEO</li>
 <li>UI/UX Design</li>
-<li>Photoshop, xD</li>
+<li>Photoshop, Experience Design</li>
 <li>Basic jQuery</li>
 <li>Basic JavaScript</li>
 <li>Jekyll</li>
