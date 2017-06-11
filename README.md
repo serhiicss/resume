@@ -8,7 +8,7 @@ http://alexdmv.com
 Websites I code for practice: 
 http://serhii-css.com/portfolio.html
 
-Skills:
+#Skills:
 
 HTML/CSS
 SASS
