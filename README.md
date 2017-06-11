@@ -2,7 +2,7 @@
 
 For the past couple of years I have been teaching myself web-design and development. I've done a couple coding, deploying and maintaining website projects.
 
-Here is the latest commercial project I was working on:
+Here is the current project I an working on:
 http://alexdmv.com
 
 Websites I code for practice: 
