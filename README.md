@@ -38,7 +38,7 @@ Stackoveflow/google
 
 # Work experience:
 
-Freelance - Development of websites, design 
+<b>Freelance</b> - Development of websites, design 
 
 GA real estate firm - real estate property and market evaluation, condition inspections, market price opinion/recommendation.
 
