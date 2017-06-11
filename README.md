@@ -1,4 +1,4 @@
-Hello world!
+<b>Hello world!</b>
 
 For the past couple of years I have been teaching myself web- design and development. I was working on a couple of projects where I coded websites.
 
@@ -40,9 +40,10 @@ http://serhii-css.com/portfolio.html
 
 <b>Freelance</b> - Website development and SEO. UX/UI design and research. Digital marketing and product promotion via social media.
 
-<b>GA</b> real estate firm - real estate property and market evaluation, condition inspections, market price opinion/recommendation.
+<b>GA real estate firm</b> - real estate property and market evaluation, condition inspections, market price opinion/recommendation.
 
-<b>GA</b> computers and electronics wholesale company - management of e-commerce department. Implementation of various software for inventory tracking/sales/shipping/support. Hiring, coaching and managing employees. Overseeing daily tasks within the department. Researching and developing new venues for inventory realization.
+<b>GA computers and electronics wholesale company</b> - management of e-commerce department. Implementation of various software for inventory tracking/sales/shipping/support. Hiring, coaching and managing employees. Overseeing daily tasks within the department. Researching and developing new venues for inventory realization.
 
 My website: http://serhii-css.com
+<br>
 My GitHub: https://github.com/serhiicss
