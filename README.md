@@ -37,7 +37,7 @@ http://serhii-css.com/portfolio.html
 <li>Stackoveflow/google</li>
 
 
-# Work experience:
+# Recent work experience:
 
 <b>Freelance</b> - Website development and SEO. UX/UI design and research. Digital marketing and product promotion via social media.
 
