@@ -2,9 +2,6 @@
 
 For the past couple of years I have been teaching myself web-design and development. I've done a couple of coding, deploying and maintaining website projects.
 
-Here is the current project I an working on:
-http://alexdmv.com
-
 Websites I code for practice: 
 http://serhii-css.com/portfolio.html
 
