@@ -45,3 +45,8 @@ http://serhii-css.com/portfolio.html
 My website: http://serhii-css.com
 <br>
 My GitHub: https://github.com/serhiicss
+
+# Languages:
+English - fluent.  
+Russian - fluent.  
+French -  beginner.
