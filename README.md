@@ -56,3 +56,8 @@ I am an honest and hard working person who is always dedicated to any given task
 
 In my spare time I like to run, hike, take pictures and watch movies. I watch soccer games (go Barca!) and F1 championship. Whenever I am near a sea, I don't miss a chance to go fishing. Best of all though, I like having a drink near a fireplace in a company of interesting people.
 
+# Work conditions
+
+I am able to work full/part time remoetly or relocate within EU.   
+I am also willing to relocate to New Zealand, Australia or Canada.
+
