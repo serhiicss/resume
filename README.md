@@ -50,3 +50,6 @@ My GitHub: https://github.com/serhiicss
 English - fluent.  
 Russian - fluent.  
 French -  beginner.
+
+# About me
+I am an honest and hard working person who is always dedicated to any given task. I love working with people on various projects, getting to know each other and inspire each other. My weakens is probably perfectionism. I may spend extra time to carry things to perfection. I normally demonstrate strong determination, enthusiasm and trustworthiness. I am not afraid to take charge when needed and I am comfortable with delegating to others.
