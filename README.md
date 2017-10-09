@@ -53,3 +53,6 @@ French -  beginner.
 
 # About me
 I am an honest and hard working person who is always dedicated to any given task. I love working with people on various projects, getting to know each other and inspire each other. My weakens is probably perfectionism. I may spend extra time to carry things to perfection. I normally demonstrate strong determination, enthusiasm and trustworthiness. I am not afraid to take charge when needed and I am comfortable with delegating to others.
+
+In my spare time I like to run, hike, take pictures and watch movies. I watch soccer games (go Barca!) and F1 championship. Whenever I am near a sea, I don't miss a chance to go fishing. Best of all though, I like having a drink near a fireplace in a company of interesting people.
+
