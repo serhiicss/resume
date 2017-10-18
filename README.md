@@ -58,6 +58,6 @@ In my spare time I like to run, hike, take pictures and watch movies. I watch so
 
 # Work conditions
 
-I am able to work full/part time remotely or in the office within EU.   
+I am able to work full/part time remotely or in the office within the EU.   
 I am also willing to relocate to New Zealand, Australia or Canada.
 
