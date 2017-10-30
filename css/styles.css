@@ -78,10 +78,10 @@ em, i {
 
 .about-me {
   color: #fff;
-  background: -webkit-gradient(linear, left bottom, right top, from(#4ec6ca), to(#43389F));
-  background: -webkit-linear-gradient(bottom left, #4ec6ca 0%, #43389F 100%);
-  background: -o-linear-gradient(bottom left, #4ec6ca 0%, #43389F 100%);
-  background: linear-gradient(to top right, #4ec6ca 0%, #43389F 100%);
+  background: -webkit-gradient(linear, left top, left bottom, from(#207aaf), to(#01073a));
+  background: -webkit-linear-gradient(top, #207aaf, #01073a);
+  background: -o-linear-gradient(top, #207aaf, #01073a);
+  background: linear-gradient(to bottom, #207aaf, #01073a);
   -webkit-background-size: cover;
           background-size: cover; }
   .about-me h1, .about-me h2 {
