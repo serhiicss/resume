@@ -1,17 +1,25 @@
 .about-me {
   color: #fff;
-  background-image: url("../img/bg.jpg");
+  background: -webkit-gradient(linear, left bottom, right top, from(#4ec6ca), to(#43389F));
+  background: -webkit-linear-gradient(bottom left, #4ec6ca 0%, #43389F 100%);
+  background: -o-linear-gradient(bottom left, #4ec6ca 0%, #43389F 100%);
+  background: linear-gradient(to top right, #4ec6ca 0%, #43389F 100%);
   -webkit-background-size: cover;
-          background-size: cover;
-  margin-bottom: -6em; }
+          background-size: cover; }
   .about-me h1, .about-me h2 {
-    font-family: 'Fredoka One', cursive;
-    letter-spacing: 0.05em; }
+    letter-spacing: 0.05em;
+    margin-top: 0.5em; }
   .about-me h2 {
     margin-top: 1.5em;
     margin-bottom: 1em;
     display: block;
     border-bottom: 1px solid #fff; }
+  .about-me h3.about-descr {
+    font-weight: 100;
+    font-size: 1.4rem;
+    border-bottom: none;
+    margin-top: 0;
+    margin-bottom: 1.6em; }
   .about-me p {
     margin-top: 1em; }
   .about-me a {
@@ -20,7 +28,7 @@
     border: 1px dotted;
     -webkit-border-radius: 5px;
             border-radius: 5px;
-    padding: 0.2em 0.5em;
+    padding: 0.05em 0.5em;
     background-color: rgba(255, 255, 255, 0.1);
     -webkit-transition: 0.25s;
     -o-transition: 0.25s;
@@ -59,9 +67,6 @@
     margin: 0;
     padding: 1em; } }
 
-h2.about-descr {
-  border-bottom: none; }
-
 .work-item {
   margin-top: 2em; }
 
@@ -81,7 +86,7 @@ h2.about-descr {
   margin-top: 2em; }
   .content-contact a:not(:last-child) {
     margin-right: 0.8em; }
-  @media (max-width: 550px) {
+  @media (max-width: 802px) {
     .content-contact {
       -webkit-box-orient: vertical;
       -webkit-box-direction: normal;
@@ -89,4 +94,5 @@ h2.about-descr {
           -ms-flex-direction: column;
               flex-direction: column; }
       .content-contact a:not(:last-child) {
-        margin-bottom: 0.8em; } }
+        margin-bottom: 0.8em;
+        margin-right: 0; } }
